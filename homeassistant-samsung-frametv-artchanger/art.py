@@ -6,7 +6,7 @@ import argparse
 from io import BytesIO
 import random
 
-sys.path.append('../')
+#sys.path.append('../')
 
 from samsungtvws import SamsungTVWS
 from sources import bing_wallpapers, google_art, media_folder
